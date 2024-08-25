@@ -47,6 +47,6 @@ Please make sure to follow the coding style and include comments where necessary
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: your.email@example.com
+- Email: akashsrivastava2744@gmail.com
 
 Happy Coding!
