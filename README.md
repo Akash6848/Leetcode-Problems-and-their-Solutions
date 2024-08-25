@@ -48,5 +48,6 @@ Please make sure to follow the coding style and include comments where necessary
 If you have any questions or suggestions, feel free to reach out:
 
 - Email: akashsrivastava2744@gmail.com
+- Email: sshruti7080@gmail.com
 
 Happy Coding!
